@@ -181,19 +181,19 @@ Then it distinguishes month-bases: the lunar month bounded by new moon, the sola
 #### D.5 Taittirīya Brāhmaṇa Time-Segment Qualitative Taxonomy
 The Taittirīya Brāhmaṇa (3.10) goes beyond the quantitative definition of time units and assigns **qualitative names** to day-times, night-times, and muhūrtas. The text provides multiple naming systems (TB 3.10.1.1-3 for day-times/night-times, TB 3.10.1.1-4 for muhūrtas), establishing that time segments carry distinct energetic signatures.
 
-**15 Day-Times** (bright fortnight; TB 3.10.1.1-3):
+**Naming Scheme A — Day-Portion Names** (bright fortnight; TB 3.10.1.1-3):
 `saṃjñānaṃ, vijñānaṃ, prajñānaṃ, jānad, abhijānad, saṃkalpamānaṃ, prakalpamānaṃ, upakalpamānaṃ, upakṛptamānaṃ, kṛpta, śreya, vaśiya, āyat, sambhūta, bhūta`
 
-**15 Night-Times** (bright fortnight; TB 3.10.1.1-3):
+**Naming Scheme A — Night-Portion Names** (bright fortnight; TB 3.10.1.1-3):
 `darśa, dṛṣṭā, darśatā, viśvarūpa, sudarśanā, āpyāyamānā, pyāyamānā, pyāyā, sunṛtā, īrā, apūryamāṇā, pūryamāṇā, pūrayantī, pūrṇā, paurṇamāsī`
 
-**15 Daytime Muhūrtas** (bright fortnight; TB 3.10.1.1-4):
+**Naming Scheme B — Daylight Muhūrta Names** (bright fortnight; TB 3.10.1.1-4):
 `citrā, ketuḥ, prabhā, nabhan, sambhan, jyotiṣmān, tejasvān, ātapan, tapan, abhitapan, rocanā, rocāmānaḥ, śobhanā, śobhamānaḥ, kalyāṇaḥ`
 
-**15 Nighttime Muhūrtas** (bright fortnight; TB 3.10.1.1-4):
+**Naming Scheme B — Night Muhūrta Names** (bright fortnight; TB 3.10.1.1-4):
 `savitā, prasavitā, diptā, dīpāyan, dīpyamānaḥ, jvalan, jvalitā, tapan, vitapan, śāntapan, rocanā, rocāmānaḥ, śumbhuḥ, śumbhamānaḥ, vāmaḥ`
 
-The daytime muhūrtas progress through luminosity and radiant energy (Citrā → Kalyāṇaḥ); the nighttime muhūrtas govern illumination, burning, and pacification (Savitā → Vāmaḥ). This qualitative mapping establishes that the 30 muhūrtas of a day are **not interchangeable slots** but carry distinct character and intent, aligning human action (karma) with appropriate temporal windows.
+Naming Scheme A assigns names to the day-portion and night-portion of the bright fortnight; Naming Scheme B assigns names to each of the 15 individual muhūrtas within the daylight hours and the 15 individual muhūrtas within the night hours. The daylight muhūrtas progress through luminosity and radiant energy (Citrā → Kalyāṇaḥ); the night muhūrtas govern illumination, burning, and pacification (Savitā → Vāmaḥ). This qualitative mapping establishes that the 30 muhūrtas of a day are **not interchangeable slots** but carry distinct character and intent, aligning human action (karma) with appropriate temporal windows.
 
 ---
 
@@ -279,41 +279,41 @@ Only exact additional loci cited in Appendix C are listed here.
 
 This appendix collects time units and subdivisions that appear in later pedagogical compilations, mathematical texts, and civil/astrological conventions. **None of these belong to the sage-attributed metrological chains** (BhP, Manu, VP, SS). They are documented here because they appear in modern charts and panchāṅga practice, and their presence in those contexts must be explicitly distinguished from the Ārṣa textual sources.
 
-### A2.1 The Modern Syncretic Anomaly (60-Fold Sub-Muhūrta Chain)
+### A2.1 Sidereal Units (Commentarial Tradition)
 
-A widespread modern internet chart presents a continuous 60-fold sexagesimal chain below the muhūrta, using terms that do appear in the canonical texts but assigning them to multipliers and magnitudes that no single śāstra endorses as a continuous ladder.
+A 60-fold sexagesimal sub-muhūrta chain appears in later commentarial and pedagogical sources. **This is not from Sūrya Siddhānta.** The Sūrya Siddhānta (1.11) defines only Prāṇa → Vināḍī → Nāḍikā — it does not define this 60-fold ladder below the prāṇa. The units and multipliers below are reconstructed from later astronomical commentary:
 
-The chart claims: 60 Truṭis = 1 Reṇu, 60 Reṇus = 1 Lava, 60 Lavas = 1 Līkṣaka, yielding a base Truṭi of ~1.8519 μs. The scholarly reality:
+| Unit | Definition | Value in SI Units |
+| --- | --- | --- |
+| Truṭi (त्रुटि) | base unit | ≈ 308.6 ns |
+| Reṇu (रेणु) | 60 Truṭi | ≈ 18.5 μs |
+| Lava (लव) | 60 Reṇu | ≈ 1,111 μs |
+| Līkṣaka (लीक्षक) | 60 Lava | ≈ 66.66 ms |
+| Liptā (लिप्ता) / Vipala (विपल) | 6 Līkṣaka | ≈ 0.4 s |
+| Prāṇa (प्राण) | 10 Liptā | ≈ 4 s |
+| Pala (पल) / Vighaṭi (विघटि) / Vināḍī (विनाडी) | 60 Liptā or 6 Prāṇa | ≈ 24 s |
+| Ghaṭi (घटि) / Nāḍī (नाडी) / Daṇḍa (दण्ड) | 60 Vighaṭi | ≈ 1.44 ks (24 min) |
+| Muhūrta (मुहूर्त) | 2 Ghaṭi | ≈ 2.88 ks (48 min) |
+| Nakṣatra Ahorātram (नक्षत्र अहोरात्रम्; sidereal day) | 60 Ghaṭī or 30 Muhūrta | ≈ 86.4 ks (24 h) |
 
-| Unit | Claimed Composition | Derived Value | Textual Status |
-| --- | --- | --- | --- |
-| Truṭi (Sexa.) | Base unit of 60-fold chain | 1.8519 μs | **Synthesis** — Truṭi is the fundamental base unit in Sūrya Siddhānta (SS 1.11), but SS defines 100 Truṭis = 1 Tatpara, not 60 Truṭis = 1 Reṇu |
-| Reṇu (Sexa.) | 60 Truṭis | 111.1111 μs | **Synthesis** — Reṇu appears in Jain cosmological texts and Purāṇic lore but is not defined as a time unit in any canonical metrological chain. Later astrological pedagogical texts extrapolated it as a mathematical convenience. |
-| Lava (Sexa.) | 60 Reṇus | 6.6667 ms | **Synthesis** — Lava is natively found in the Bhāgavata Purāṇa chain (where 1 Lava = 3 Vedhas = 142.2222 ms) and in the Amarakośa lexicon. The 6.6667 ms value is a later fabrication. |
-| Līkṣaka (Sexa.) | 60 Lavas | 400.000 ms = 0.4 s | **Synthesis** — The term Līkṣā/Līkṣaka is derived from Bhāskarācārya's Līlāvatī, which defines Līkṣā purely as a physical distance (the length of a louse-egg), not as a unit of time. Later Panchāṅgas adapted it to signify a sub-second time interval. |
+**Status:** Textually unattested as a continuous ladder in any single canonical śāstra. The terms are drawn from disparate sources (Truṭi from SS, Reṇu from Jain/cosmological texts, Lava from Purāṇas, Līkṣaka from Bhāskarācārya's Līlāvatī as a distance unit, not a time unit) and harmonized into a uniform 60× chain by later commentators.
 
-**Why this chart exists:** Researchers have traced this exact sequence to **later pedagogical compilations**. Medieval and modern educators took terms scattered across different texts (Reṇu from Jain/cosmological lore, Lava from the Purāṇas, Līkṣaka from length metrology) and mathematically "harmonized" them into a perfect 60× multiplier chain to make it easier to teach the sexagesimal breakdown of the 24-second Pala. The result is pedagogically convenient but textually unsupported as a continuous ladder.
+### A2.2 Siddhānta Śiromaṇi — Mathematical Computation Chain
 
-### A2.2 Siddhānta Śiromaṇi Secondary Mathematical Sub-Path
+Bhāskarācārya's *Siddhānta Śiromaṇi* (12th century CE) provides a 30-fold mathematical hierarchy used in the *Madhyamādhikāra* (Chapter on Mean Longitudes) for astronomical computation. This chain uses different multipliers and values from the Purāṇic chains:
 
-Bhāskarācārya's *Siddhānta Śiromaṇi* (12th century CE) provides a mathematical fraction-based hierarchy used in the *Madhyamādhikāra* (Chapter on Mean Longitudes) for astronomical computation. This is distinct from the metrological chains above and exists in a different textual tradition (mathematical astronomy, not metrology).
+| Unit | Definition | Value in SI Units |
+| --- | --- | --- |
+| Truṭi | base unit | ≈ 29.6 μs |
+| Tatpara | 100 Truṭi | ≈ 2.96 ms |
+| Nimeṣa | 30 Tatpara | ≈ 88.9 ms |
+| Kāṣṭhā (काष्ठा) | 18 Nimeṣa | ≈ 1.6 s |
+| Kalā (कला) | 30 Kāṣṭhā | ≈ 48 s |
+| Ghaṭikā | 30 Kalā | ≈ 1.44 ks (24 min) |
+| Muhūrta (मुहूर्त) / Kṣaṇa (क्षण) | 2 Ghaṭikā | ≈ 2.88 ks (48 min) |
+| Ahorātram (sidereal day) | 30 Muhūrta | ≈ 86.4 ks (24 h) |
 
-The Sūrya Siddhānta (1.11) establishes two parallel chains:
-- **Mūrta** ("with form"): Prāṇa → Vināḍī → Nāḍikā (SS 1.11)
-- **Amūrta** ("formless"): Truṭi → ... (SS 1.11 mentions Truṭi as the base but does not define its subdivisions in that verse)
-
-Later commentarial tradition and the *Siddhānta Śiromaṇi* fill in the intermediate steps of the amūrta chain with a mathematical 30-fold hierarchy. The resulting values differ from the Purāṇic chains in the sub-nimeṣa range:
-
-| Unit | Composition | Derived Value | Source |
-| --- | --- | --- | --- |
-| Truṭi | base amūrta unit | defined contextually | SS 1.11 |
-| Tatpara | 100 Truṭis | varies by base | SS commentary tradition |
-| Nimeṣa (SSiromani) | 30 Tatparas | diverges from BhP/Manu/VP | SSiromani Madhyamādhikāra |
-| Kāṣṭhā (SSiromani) | 30 Nimeṣas | diverges from BhP/Manu/VP | SSiromani Madhyamādhikāra |
-| Kalā (SSiromani) | 30 Kāṣṭhās | diverges from BhP/Manu/VP | SSiromani Madhyamādhikāra |
-| Muhūrta (SSiromani) | 30 Kalās | 48.0000 min | SSiromani Madhyamādhikāra |
-
-This chain converges at the muhūrta (48 min) with the Purāṇic chains but uses a different mathematical structure for the subdivisions. It is a **computational tool for planetary mean longitudes**, not a biological or metrological ladder. The exact Sanskrit verses of Madhyamādhikāra 16–20 require direct consultation of the critical edition for verbatim reproduction in Appendix C.
+**Source:** Bhāskarācārya, *Siddhānta Śiromaṇi*, Madhyamādhikāra. This chain converges at the muhūrta (48 min) with the Purāṇic chains but diverges completely in the sub-nimeṣa range. It is a **computational tool for planetary mean longitudes**, not a biological or metrological ladder.
 
 ### A2.3 Macro-Units (Civil & Astrological)
 
