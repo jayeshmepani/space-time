@@ -5,7 +5,13 @@
 
 *Praṇāmya Śiraso Devam, Gauri-putram Vināyakam — We bow to the Gāyatrī, source of all Veda; to Sarasvatī, who illumines the Brahmāṇḍa; to the holy lineage of Vālmīki, Vyāsa, Agastya, Vasiṣṭha, and Śuka who have mapped the cosmos in its fullness.*
 
-What follows is a synthetic darśana — a **seeing** — compiled from the testimony of the Chaturdaśa-Vidyā corpus, with primary weight given to the Śrīmad Bhāgavatam (Pañcama Skandha), the Brahma-saṁhitā, the Sūrya Siddhānta, the Yoga-Vāsiṣṭha Mahā-Rāmāyaṇa, the Viṣṇu Purāṇa, the Vāyu Purāṇa, and the relevant cosmological sections of the Ādi Vālmīki Rāmāyaṇa, the twenty-seven streams of the Rāmāyaṇa corpus, the Siddhānta-Āgama lineages, and the Vaiṣṇava-Śaiva Āgamas.
+> **तस्यानुचरितं राजन् ऋषिभिस्तत्त्वदर्शिभि: ।**
+> **श्रुतं हि वर्णितं भूरि त्वया सीतापतेर्मुहु: ॥**
+> (Śrīmad-Bhāgavatam 9.10.3)
+> *tasyānucaritaṁ rājan ṛṣibhis tattva-darśibhiḥ / śrutaṁ hi varṇitaṁ bhūri tvayā sītā-pater muhuḥ*
+> **English Translation:** "O King, the transcendental activities of Lord Rāmacandra, the husband of Mother Sītā, have been sung in many ways by great saintly persons (Ṛṣis) who have seen the truth. You have indeed heard them described extensively many times."
+
+What follows is the eternal **Brahmāṇḍa Darśana** — a seeing of the cosmic architecture — compiled from the testimony of the Chaturdaśa-Vidyā corpus, with primary weight given to the Śrīmad Bhāgavatam (Pañcama Skandha), the Brahma-saṁhitā, the Sūrya Siddhānta, the Yoga-Vāsiṣṭha Mahā-Rāmāyaṇa, the Viṣṇu Purāṇa, the Vāyu Purāṇa, and the relevant cosmological sections of the Ādi Vālmīki Rāmāyaṇa, the major branches of the Rāmāyaṇa corpus, the Siddhānta-Āgama lineages, and the Vaiṣṇava-Śaiva Āgamas.
 
 **Oṃ Namo Brahmaṇe. Namo Vāyu. Tvameva pratyakṣaṃ Brahma vadishyāmi.**
 
@@ -28,6 +34,14 @@ The *Brahmāṇḍa* is not a machine. It is *Brahman's Svāṅga* (limb of mani
 ### 1.1 The Causal Ocean (Kāraṇa-Samudra)
 
 In the Śrīmad Bhāgavata Mahāpurāṇa (Skanda XI, corroborated by the Vaiṣṇava Āgamas and the cosmological Bāla-Kāṇḍa commentary of the Brahma Rāmāyaṇa), the ultimate substratum is designated **Mahā-Viṣṇu** — the Puruṣa in His first functional emanation. He reclines upon the **Kāraṇa-Samudra**, the Causal Ocean.
+
+The foundation of cosmic manifestation is traced back to the Vedic *Nāsadīya Sūkta*, identifying the primordial state before the first ripple of creation from which all cosmic waters spring.
+
+> **नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् ।**
+> **किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥**
+> (Ṛgveda 10.129.1)
+> *nāsadāsīnno sadāsīttadānīm nāsīdrajo no vyomā paro yat / kimāvarīvaḥ kuha kasya śarmannambhaḥ kimāsīdgahanam gabhīram*
+> **English Translation:** "Then there was neither non-existence nor existence; there was no realm of air, no sky beyond it. What covered it, and where? And what gave shelter? Was there water, unfathomed depth of water?"
 
 This Ocean is not a physical body of water. It is **pure undifferentiated Sattva-Rajas-Tamas** held in perfect suspension — *Avyakta* (unmanifest) *Prakṛti* — in which no Guṇa predominates. It is also known as the **Viraja River**, a designation signifying its nature as completely free from the contamination of the three Guṇas. The Kāraṇa-Samudra does not consist of terrestrial water; rather, it is pure *Salila*, a highly subtle, spiritual liquid state of pure potentiality containing the unmanifest seeds of all elements, the dormant *Jīvas* (souls), and the unagitated *Pradhāna* (root matter). Within this vast, transcendental expanse, the first *Puruṣa-avatāra*, Kāraṇodakaśāyī Viṣṇu (Mahā-Viṣṇu), reclines in the divine state of *Yoga-Nidrā* (mystic slumber). As Maha-Viṣṇu breathes out, infinite, unmanifest Brahmāṇḍas (Cosmic Eggs) emanate from the pores of His divine form (*roma-kūpa*). These universes float upon the Causal Ocean like innumerable spherical bubbles, each encapsulated within its own impenetrable elemental shell. When the Lord inhales, these billions of universes are drawn back into His body, marking the ultimate *Mahāpralaya* (total cosmic dissolution), returning all matter to its dormant, unmanifest state.
 
@@ -68,28 +82,28 @@ These three Puruṣas who lie on the Kāraṇa, Garbha, and Kṣīra oceans resp
 - **Garbhodakaśāyī Viṣṇu** is the Supersoul of the collective living beings
 - **Kṣīrodakaśāyī Viṣṇu** is the Supersoul of all individual living entities
 
-**Source:** Śrīmad Bhāgavatam 11.11.6–8 (Three Oceans of Creation):
-> **कारणोदकशायी तु पुरुषः प्रकृतेः परः । सृजत्यण्डानि तस्मात्तु गर्भोदकशयो हरिः ॥ ६ ॥**
+**Source:** Sātvata-tantra (as quoted by Śrīdhara Svāmī and in Caitanya-caritāmṛta Ādi 5.50):
+> **कारणोदकशायी तु पुरुषः प्रकृतेः परः । सृजत्यण्डानि तस्मात्तु गर्भोदकशयी हरिः ॥ ६ ॥**
 > **क्षीरोदकशयी विष्णुः प्रविष्टोऽण्डान्तरेषु वै । पालयत्यण्डजान् सर्वान् भूतग्रामान् यशस्विनः ॥ ७ ॥**
 > **एते त्रयः पुरुषाः स्युः कारणोदकशायिनः । पुरुषस्य परस्यात्मनः कलाः प्रभविष्णवः ॥ ८ ॥**
-> *"kāraṇodaka-śāyī tu puruṣaḥ prakṛteḥ paraḥ / sṛjaty-aṇḍāni tasmāt tu garbhodaka-śayo hariḥ // 6 // kṣīrodaka-śayī viṣṇuḥ praviṣṭo 'ṇḍāntareṣu vai / pālayaty-aṇḍajān sarvān bhūta-grāmān yaśasvinaḥ // 7 // ete trayaḥ puruṣāḥ syuḥ kāraṇodaka-śāyinaḥ / puruṣasya parasyātmanaḥ kalāḥ prabhaviṣṇavaḥ // 8 //"*
+> *"kāraṇodaka-śāyī tu puruṣaḥ prakṛteḥ paraḥ / sṛjaty-aṇḍāni tasmāt tu garbhodaka-śayī hariḥ // 6 // kṣīrodaka-śayī viṣṇuḥ praviṣṭo 'ṇḍāntareṣu vai / pālayaty-aṇḍajān sarvān bhūta-grāmān yaśasvinaḥ // 7 // ete trayaḥ puruṣāḥ syuḥ kāraṇodaka-śāyinaḥ / puruṣasya parasyātmanaḥ kalāḥ prabhaviṣṇavaḥ // 8 //"*
 > **Translation:** *"Kāraṇodakaśāyī Puruṣa is beyond material nature; from Him come the universes. Garbhodakaśāyī Hari enters each universe. Kṣīrodakaśāyī Viṣṇu enters within each universe to maintain all living beings. These three Puruṣas are all expansions of the Supreme Personality of Godhead."*
 
 ### 1.3 The Garbhodaka Ocean and the Floating Cosmic Egg
 
 From within Mahā-Viṣṇu's exhalation (Niśvāsa), innumerable Brahmāṇḍas are produced — each a golden egg (Hiraṇyāṇḍa). The Śrīmad Bhāgavatam (2.2.28, 3.11.3–4) and the Brahma Purāṇa specify that each Brahmāṇḍa floats within its own secondary ocean: the **Garbhodaka-Samudra** (Garbha = womb; Udaka = water).
 
-**Source:** Śrīmad Bhāgavatam 2.2.28:
-> **कोट्यो ब्रह्माण्डा महोदधौ । धूलीकणा इव व्योम्नि सूर्यरश्मिषु संचरन् ॥ २८ ॥**
-> *"koṭyo brahmāṇḍā mahodadhau / dhūlī-kaṇā iva vyomni sūrya-raśmiṣu saṁcaran"*
-> *"Innumerable universes float within the Causal Ocean, like particles of dust passing through a beam of sunlight."*
+**Source:** Brahma-saṁhitā 5.48:
+> **यस्यैकनिःश्वसितकालमथावलम्ब्य जीवन्ति लोमविलजा जगदण्डनाथाः ।**
+> **विष्णुर्महान् स इह यस्य कलाविशेषो गोविन्दमादिपुरुषं तमहं भजामि ॥ ४८ ॥**
+> *"yasyaika-niśvasita-kālam athāvalambya / jīvanti loma-vilajā jagad-aṇḍa-nāthāḥ / viṣṇur mahān sa iha yasya kalā-viśeṣo / govindam ādi-puruṣaṁ tam ahaṁ bhajāmi"*
+> **Translation:** *"I worship the primeval Lord, Govinda, of whom Mahā-Viṣṇu is a portion. The Brahmas, the heads of the innumerable universes, live only for the duration of one exhalation of Mahā-Viṣṇu, who breathes out those universes from the pores of His body."*
 
-**Source:** Śrīmad Bhāgavatam 3.11.3–4:
-> **तस्मिन् महादौ पुरुषस्य नाभेः पद्मं समजायत सुवर्णम् । तत्राभवद् ब्रह्मा भगवान् विधाता लोकस्य यस्येच्छया सृजति ॥ ३ ॥**
-> **एकस्मिन्न् अण्डे सहस्राणि कोटिशो लोकाः संचरन्ति ॥ ४ ॥**
-> *"tasmin mahādau puruṣasya nābheḥ padmaṁ samajāyata suvarṇam / tatrābhavad brahmā bhagavān vidhātā lokasya yasyecchayā sṛjati // 3 //"*
-> *"ekasminn aṇḍe sahasrāṇi koṭiśo lokāḥ saṁcaranti // 4 //"*
-> *"From the navel of the Supreme Person arose a golden lotus, upon which Brahmā, the creator of the universe, was born. Within a single universe, there are millions upon millions of planetary systems."*
+**Source:** Śrīmad-Bhāgavatam 3.8.14 (The emergence of the Golden Lotus):
+> **तस्यानाभेरूद्भुतपद्मकोशो हिरण्मयो भास्वररुग्वितानः ।**
+> **स्फुरद्गुणप्रायगुणप्रतीकस्तमेव चाविशदयं स्वमगे ॥ १४ ॥**
+> *"tasyānābher udabhūt padma-kośo / hiraṇmayo bhāsvara-rug-vitānaḥ / sphurad-guṇa-prāya-guṇa-pratīkas / tam eva cāviśad ayaṁ sva-mage"*
+> **Translation:** *"From His navel a lotus flower of golden effulgence sprouted, illuminating all directions, acting as the form of the total material energy and containing the seed of all living entities."*
 
 The Bhūṣuṇḍī-Rāmāyaṇa reveals: *"Aṇḍāni 84-lakṣāṇi, pratyekaṁ kalpa-bhedataḥ"* (84 lakh cosmic eggs, each modulated by its Kalpa's Dharma-Saṅgraha). The Mantra-Rāmāyaṇa (Ṛg-niṣpanna) states that the Brahmāṇḍa is suspended not by gravity, but by the **Oṃkāra-Spanda** (vibrational resonance of the Praṇava), which creates a standing wave of Ākāśa that cradles the egg in Garbhodaka.
 
@@ -102,7 +116,17 @@ The fluid dynamics of the Garbhodaka are governed by **Tattva-Curnaṇa** (eleme
 
 The origins of this entire operational system are rooted in the primordial fluids. The Brahmanda itself is said to float within the Karana Samudra, the Causal Ocean, from which it manifests. Within the newly created universe, the Garbhodaka Ocean forms, and it is here that the cosmic machinery is set in motion. The emergence of the lotus from the navel of Narayana, upon which Brahma takes his seat to begin creation, occurs within this fluid environment. The fluid dynamics of these cosmic oceans are therefore not just background scenery but are integral to the cosmogony and ongoing mechanics of the universe.
 
-### 1.5 The Brahmāṇḍa (Cosmic Egg)
+### 1.5 The Soma Ocean (Celestial Waters)
+
+The **Vālmīki Rāmāyaṇa** reveals the celestial nature of the upper heavens as an ocean of stars, comparing the night sky to cosmic waters where planets and constellations move like aquatic beings.
+
+> **पुनर्वसुमहामीनं लोहिताङ्गमहाग्रहम् ।**
+> **ऐरावतमहाद्वीपं स्वातीहंसविलोडितम् ॥**
+> (Vālmīki Rāmāyaṇa, Sundara Kāṇḍa 57.2)
+> *punarvasumahāmīnaṃ lohitāṅgamahāgraham / airāvatamahādvīpaṃ svātīhaṃsaviloḍitam*
+> **English Translation:** "With the Punarvasu constellation as the great fish, with Mars as the great shark, with Airāvata as the great island, and with Svātī as the swan agitated by the waves."
+
+### 1.6 The Brahmāṇḍa (Cosmic Egg)
 
 The Brahmāṇḍa (Cosmic Egg) itself is described in the Brahmāṇḍa Purāṇa (Pūrva-Bhāga, Adhyāya 3) as having an eightfold shell (Aṣṭa-Āvaraṇa), structured like a cosmic onion. Each shell is composed of the preceding Tattva in its Avyākta (seed) form, not in its expressed, perceivable manifestation:
 
@@ -156,11 +180,11 @@ Starting with a 4-billion-mile inner diameter, the cumulative effect of these la
 
 The fourteen Lokas form the vertical spine of the Brahmāṇḍa. The Bhāgavata Purāṇa (Skandha 2, verses 5.39–42; Skandha 5, verses 24.1–31), the Viṣṇu Purāṇa (Book II, chapters 1–8), and the Vāyu Purāṇa (Adhyāya 101–111, verses 101.1–111.15), cross-referenced with the Brahma Siddhānta 3.1–8 and Lomaśa Rāmāyaṇa 2.5–12, yield the following synthesis.
 
-**Source:** Bhāgavata Purāṇa 2.5.39–42:
-> **भूतानि भूतसूक्ष्माणानि सूक्ष्माणि च भूतानि सूक्ष्मतराणि च । क्रमशः सूक्ष्मतारं तु सप्तविंशतिकं विदुः ॥ ३९ ॥**
-> **सप्तोर्ध्वा लोकान् सप्त अधो लोकान् विदुः सूरयः ।**
-> *"bhūtāni bhūta-sūkṣmāṇāni sūkṣmāṇi ca bhūtāni sūkṣma-tarāṇi ca / kramaśaḥ sūkṣmatāraṁ tu saptaviṁśatikaṁ viduḥ // 39 //"*
-> **Translation:** *"The fourteen worlds are known as arranged in order of increasing subtlety, from the gross material elements to the subtlest spiritual consciousness. Seven worlds are above and seven worlds are below, known to the seers."* (SB 2.5.39–40)
+**Source:** Śrīmad-Bhāgavatam 2.1.26 (The Planetary Systems):
+> **पातालं एतस्य हि पादमूलं पठन्ति पार्ष्णिप्रपदे रसातलम् ।**
+> **महातलं विश्वसृजोऽथ गुल्फौ तलातलं वै पुरुषस्य जङ्घे ॥ २६ ॥**
+> *"pātālam etasya hi pāda-mūlaṁ / paṭhanti pārṣṇi-prapade rasātalam / mahātalaṁ visva-sṛjo ’tha gulphau / talātalaṁ vai puruṣasya jaṅghe"*
+> **Translation:** *"Learned scholars dictate that the planetary system known as Pātāla constitutes the bottoms of the feet of the Universal Form, Rasātala its heels, Mahātala its ankles, and Talātala its shanks."*
 
 The Śrīmad Bhāgavatam (2.5.40-41) maps the seven lower worlds onto the body of the Virāṭ-puruṣa: the first planetary system, known as Atala, is situated on the waist; the second, Vitala, on the thighs; the third, Sutala, on the knees; the fourth, Talātala, on the shanks; the fifth, Mahātala, on the ankles; the sixth, Rasātala, on the upper portion of the feet; and the seventh, Pātāla, on the soles of the feet.
 
@@ -214,10 +238,10 @@ The distances of the upper planetary systems are calculated with exactitude in t
 | **Rasātala** | Paṇis and Nivāta-Kavacas | 60,000 Yojanas | Pure Tamas |
 | **Pātāla** | Vāsuki, Śeṣa-Ananta; Nāga-Rājas | 70,000 Yojanas | Tamas sublimated into Nāga-Dharma |
 
-**Source:** Bhāgavata Purāṇa 5.24.7–31:
-> **अतलं वितलं सुतलं तलातलं महातलं रसातलं पातालं च सप्त पातालानि । तेषु मणिप्रदीपानि सूर्यचन्द्रमसौ न भातः ॥**
-> *"atalaṁ vitalaṁ sutalaṁ talātalaṁ mahātalaṁ rasātalaṁ pātālaṁ ca sapta pātālāni / teṣu maṇipradīpāni sūryacandramasau na bhātaḥ"*
-> *"Atala, Vitala, Sutala, Talātala, Mahātala, Rasātala, and Pātāla — these are the seven lower worlds. There, lamps of gems illuminate; the sun and moon do not shine."*
+**Source:** Śrīmad-Bhāgavatam 5.24.7:
+> **एतस्य हि पातालमूले सप्तावनीविवरा एकैकशो योजनायुतान्तरेणायामतविस्तारेणोपक्लृप्ता अतलम् वितलम् सुतलम् तलातलम् महातलम् रसातलम् पातालम् इति ॥**
+> *"etasya hi pātāla-mūle saptāvanī-vivarā ekaikaśo yojanāyutāntareṇāyāmata-vistāreṇopaklṛptā atalaṁ vitalaṁ sutalaṁ talātalaṁ mahātalaṁ rasātalaṁ pātālam iti"*
+> **Translation:** *"Beneath the earth are seven lower planetary systems, called Atala, Vitala, Sutala, Talātala, Mahātala, Rasātala and Pātāla. In these regions, there is no sunshine, but they are illuminated by the blazing jewels on the hoods of the great serpents."*
 
 That the Pātālas are, paradoxically, more **beautiful** than the heavens — adorned with Maṇi-gems that illuminate without requiring the sun. This reveals a crucial point: density of Tamas is not equivalent to ugliness — it is equivalent to opacity to liberation. The Agastya Rāmāyaṇa 4.8–15 records that the great sage himself entered Sutala to hold discourse with Bali, confirming that the lower Lokas are traversable by realized Ṛṣis.
 
@@ -309,13 +333,10 @@ The interpretation of the Bhu-Mandala is a subject of deep contemplation. On one
 
 ### 5.1 The Cosmic Dolphin (Śiśumāra / Timingila) Mechanism
 
-**Source:** Śrīmad Bhāgavatam 5.23.1–9 (Śiśumāra Chakra):
-> **अधो गतोऽस्य पुच्छाग्रे ध्रुवोऽस्मिन् लोकपालकैः ।**
-> **पृष्ठेनाजावीथीनाम् उदरेणाक्षगङ्गया ॥ १ ॥**
-> **दक्षिणेनाभजित्पुनर्वसू वामेन पुष्योत्तराशाढाः ।**
-> **अगस्त्यो हनुर्वरुणोऽगस्त्यो नासत्यौ चोत्तरेऽगस्त्यः ॥ २ ॥**
-> *"adho gato 'sya pucchāgre dhruvo 'smin loka-pālakaiḥ / pṛṣṭhenā jāvīthīnām udareṇākṣa-gaṅgayā // 1 // dakṣiṇenābhajit punarvasū vāmena puṣyottarāśāḍhāḥ / agastyo hanur varuṇo 'gastyo nāsyau cottare 'gastyaḥ // 2 //"*
-> **Translation:** *"At the tail-tip of this cosmic form is Dhruvaloka, the Polestar, guarded by the lords of the directions. On its back are the Ajavīthī stars, on its belly the Milky Way (Akṣa-Gaṅgā). On the right side are Abhijit and Punarvasu, on the left Puṣyā and Uttarāṣāḍhā. Agastya is on the lower chin, Varuṇa on the upper chin, and the twin Aśvinīs on the nostrils."*
+**Source:** Śrīmad-Bhāgavatam 5.23.5 (Śiśumāra Chakra):
+> **यस्य पुच्छाग्रेऽवाक्शिरसः कुण्डलीभूतदेहस्य ध्रुव उपकल्पितस्तस्य लाङ्गूले प्रजापतिरग्निरिन्द्रो धर्म इति पुच्छमूले धाता विधाता च कट्यां सप्तर्षयः...**
+> *"yasya pucchāgre 'vāk-śirasaḥ kuṇḍalī-bhūta-dehasya dhruva upakalpitas tasya lāṅgūle prajāpatir agnir indro dharma iti puccha-mūle dhātā vidhātā ca kaṭyāṁ saptarṣayaḥ..."*
+> **Translation:** *"This form of the Śiśumāra has its head directed downward and its body coiled. On the end of its tail is the planet of Dhruva, on the body of its tail are the planets of Prajāpati, Agni, Indra and Dharma, and at the base of its tail are the planets of Dhātā and Vidhātā. Where the hips might be are the seven saintly sages like Vasiṣṭha."*
 
 Those who worship the Virāṭ-puruṣa, the universal form of the Lord, conceive of this entire rotating system of planets as an animal known as Śiśumāra. This imaginary Śiśumāra is another form of the Lord. The head of the Śiśumāra form is downward, and its body appears like that of a coiled snake.
 
@@ -357,11 +378,11 @@ The Saurya-Rāmāyaṇa describes how Sūrya's 12 Mandala-Bhedas sync with Śiś
 
 **Dhruva-Loka** (Dhruva = fixed, immovable; Loka = realm) is located at the tail of the Śiśumāra, 3,800,000 Yojanas above the Saptarṣi-Maṇḍala (which is 1,000,000 Yojanas above the Śani orbit). The polestar, called Dhruvaloka, is the pivot of this universe, and all planets move around this polestar. All the stars are planets, as far as we can see, within this one universe.
 
-**Source:** Bhāgavata Purāṇa 4.9.20–21 (Dhruva — Viṣṇu-padaṃ):
-> **यत्पादमूलं ध्रुवम् अच्युतस्य तस्मिन् भ्रमन्ति ग्रहनक्षत्रताराः । कालचक्रेण परिवर्तमानाः कालपुरुषस्य रथाङ्गचक्रम् ॥ २० ॥**
-> **तत्पद्मनाभस्य पदं प्रपन्नो विष्णोः परं धाम अनुशासनाय । यत्र स्थिता न निवर्तन्ति भूयः कालचक्रस्य परिभ्रमन्ति ॥ २१ ॥**
-> *"yat pāda-mūlaṁ dhruvam acyutasya tasmin bhramanti graha-nakṣatra-tārāḥ / kāla-cakreṇa parivartamānāḥ kāla-puruṣasya rathāṅga-cakram // 20 //"*
-> **Translation:** *"The planets, stars, and constellations revolve around the firm pole at the feet of Acyuta, like the wheels of a chariot driven by the Personality of Time. Those who attain that supreme abode of Padmanābha Viṣṇu never return to the wheel of time."*
+**Source:** Śrīmad-Bhāgavatam 4.9.20 (Viṣṇu granting Dhruvaloka):
+> **मत्स्थानमातिष्ठ किलाभिवन्दितं ताराग्रहर्क्षोत्तारचक्रधारकम् ।**
+> **मेढ्यां ध्रुवं शश्वदशेषचर्चरैराटङ्कितं नित्यमपायिनं ते ॥ २० ॥**
+> *"mat-sthānam ātiṣṭha kilābhivanditaṁ / tārā-graharkṣotāra-cakra-dhārakam / meḍhyāṁ dhruvaṁ śaśvad-aśeṣa-carcarair / āṭaṅkitaṁ nityam apāyinaṁ te"*
+> **Translation:** *"The Supreme Personality of Godhead continued: My dear Dhruva, I shall award you the glowing planet known as the polestar, which will continue to exist even after the dissolution at the end of the millennium. No one has ever ruled this planet, which is surrounded by all the solar systems, planets and stars. All the luminaries in the sky circumambulate this planet, just as bulls tread around a central pole."*
 
 *Dhruvaloka* (Pole Star), the abode of Lord Viṣṇu within this universe, is situated 1,300,000 yojanas from the seven stars (Big Dipper).
 
@@ -383,10 +404,10 @@ The Sūrya Siddhānta 12.1–15 (Bhuvana-Koṣa) and Brahma Siddhānta 4.1–8 d
 
 The Lomaśa Rāmāyaṇa adds the specification that Hanumān, traversing the sky in his aerial form, could perceive these Vāyu-Rajjus as luminous filaments — an experiential confirmation of the structural Pravaha tether system.
 
-**Source:** Bhāgavata Purāṇa 5.22–23 (Dhruva — Axis of the Cosmos):
-> **ध्रुवस्य तारागणनां प्रदक्षिणं कुर्वन्ति ये ग्रहणराशिगणाः । कालपुरुषस्य रथस्य चक्रं तेषां गतिं वक्ष्यति भगवान् ॥ २२ ॥**
-> *"dhruvasya tārā-gaṇanāṃ pradakṣiṇaṃ kurvanti ye grahaṇa-rāśi-gaṇāḥ / kāla-puruṣasya rathasya cakraṁ teṣāṃ gatiṃ vakṣyati bhagavān // 22 //"*
-> **Translation:** *"The planets, constellations, and star-groups that circumambulate Dhruva are like the wheels of the chariot of the Time-Personality; the Supreme Lord shall describe their motion."*
+**Source:** Śrīmad-Bhāgavatam 5.22.2 (The Tethers of Pravaha-Vāyu):
+> **यथा मीढुस्तेमानानामृषभो व्रजमण्डलमनुसभृत्य... सर्व एव ज्योतिर्गणा ग्रहाणामुपसन्ना ध्रुवमेवाभिपदक्षिणमुपचरन्ति ॥ २ ॥**
+> *"yathā mīḍhustemānānām ṛṣabho vraja-maṇḍalam anusambhṛtya... sarva eva jyotir-gaṇā grahāṇām upasannā dhruvam evābhipradakṣiṇam upacaranti // 2 //"*
+> **Translation:** *"Just as bulls yoked to a central pivot move around that pivot, so all the planets and millions of stars revolve around Dhruvaloka in their respective orbits, propelled by the Pravaha wind and the eternal wheel of time."*
 
 The Sūrya Siddhānta 12.1–15 describes how the Pravaha wind carries the planets from east to west in their daily motion, while their own śakti (orbital velocity) propels them from west to east along the Rāśi belt — the balance of these two forces establishes the observed planetary paths. Like bulls yoked to a central pivot, all the planetary systems revolve around Dhruvaloka, impelled by eternal time (kāla). The Siddhāntas confirm that Pravaha-Vāyu is a highly specific, supernatural aerodynamic force — the cosmic wind generated by the absolute will of the Lord — that continuously drives the sun, moon, and planets along their respective orbital paths (epicycles) around Mount Meru and Dhruva-loka.
 
@@ -429,10 +450,11 @@ A cycle of four ages with declining dharma in the ratio 4:3:2:1. Each yuga has a
 > *"sahasrāṇy-abda-saṁvatsarāś catvāri parisaṁkhyayā / kṛtasya tvāyuṣāṁ sandhyā sandhyāṁśaś ca tathāvidhaḥ"*
 > *"Four thousand divine years they call the Kṛta-yuga; its dawn has as many hundreds, and so has its night, and the other yugas with their dawns and nights have thousands and hundreds less by one. What is called the Catur-yuga (one thousand four ages) which consists of twelve thousand divine years — one thousand Catur-yugas constitutes one day of Brahmā, and his night has the same length."*
 
-**Source:** Bhāgavata Purāṇa 3.11.19:
-> **चत्वारि त्रेताद्वापरकलिनामानि वर्षाणि देवानाम् । सहस्रगुणितान्येतद् ब्रह्मणो दिनमिष्यते ॥ १९ ॥**
-> *"catvāri tretā-dvāpara-kalināmāni varṣāṇi devānām / sahasra-guṇitāny etad brahmaṇo dinam iṣyate"*
-> *"O brahmin, the four yugas — Satya, Tretā, Dvāpara, and Kali — are measured by the years of the gods. The total of the four yugas multiplied by one thousand constitutes one day of Brahmā, and the same constitutes his night."*
+**Source:** Śrīmad-Bhāgavatam 3.11.18:
+> **कृतं त्रेता द्वापरं च कलिरित्येषु धातुषु ।**
+> **चतुर्युगं द्वादशतानि सहस्राणि निगद्यते ॥ १८ ॥**
+> *"kṛtaṁ tretā dvāparaṁ ca / kalir ity eṣu dhātuṣu / catur-yugaṁ dvādaśa-tāni / sahasrāṇi nigadyate"*
+> **Translation:** *"O Viduara, the four millenniums are called Kṛta, Tretā, Dvāpara and Kali. The aggregate number of years of all of these combined is equal to twelve thousand years of the demigods."*
 
 | Yuga | Main Period (Deva-Years) | Main Period (Human Years) | Sandhyā (Dawn) | Sandhyāṃśa (Dusk) | Total (Human Years) |
 |---|---|---|---|---|---|
@@ -476,10 +498,11 @@ Surya Siddhanta, Ch. 1:[10]
 
 (13) ... twelve months make a year. This is called a day of the gods. (14) ... Six times sixty [360] of them are a year of the gods ... (15) Twelve thousand of these divine years are denominated a Quadruple Age (caturyuga); of ten thousand times four hundred and thirty-two [4,320,000] solar years (18) One and seventy [71] Ages are styled here a Patriarchate (manvantara); at its end is said to be a twilight which has the number of years of a Golden Age, and which is a deluge. (19) In an Æon (kalpa) are reckoned fourteen such Patriarchs (manu) with their respective twilights; at the commencement of the Æon is a fifteenth dawn, having the length of a Golden Age.
 
-**Source:** Bhāgavata Purāṇa 3.11.23:
-> **एकासप्ततिगुणितं युगं मन्वन्तरं विदुः । कल्पे मन्वन्तराण्येवं चतुर्दश मनून् विदुः ॥ २३ ॥**
-> *"ekāsaptati-guṇitaṁ yugaṁ manvantaraṁ viduḥ / kalpe manvantarāṇy evaṁ caturdaśa manūn viduḥ"*
-> *"Each Manvantara lasts 71 Catur-yugas. In each Kalpa, 14 Manus appear successively, each presiding over a distinct epoch of humanity and cosmic order."*
+**Source:** Śrīmad-Bhāgavatam 3.11.24:
+> **मन्वन्तरं मनुर्देवा मनुपुत्राः सुरेश्वरः ।**
+> **ऋषयोऽशावतारश्च हरेः षड्विधमुच्यते ॥ २४ ॥**
+> *"manvantaraṁ manur devā / manu-putrāḥ sureśvaraḥ / ṛṣayo 'ṁśāvatāraś ca / hareḥ ṣaḍ vidham ucyate"*
+> **Translation:** *"In a Manvantara, six kinds of distinct entities physically manifest: the ruling Manu, the chief Demigods, the sons of Manu, the Indra of the time, the great sages (Saptarṣis), and the partial incarnation of the Supreme Lord."*
 
 A Manvantara, in Hindu cosmology, is a cyclic period of time identifying the duration, reign, or age of a Manu, the progenitor of mankind. In each Manvantara, seven Ṛṣis, certain deities, an Indra, a Manu, and kings (sons of Manu) are created and perish. Each Manvantara is distinguished by the Manu who rules/reigns over it, of which we are currently in the seventh Manvantara of fourteen, which is ruled by Vaivasvata Manu.
 
@@ -669,12 +692,11 @@ This establishes **Mahā-Viṣṇu's time-scale** as incomprehensibly vast relat
 
 ### 6.5 The Present Cosmic Position
 
-**Source:** Bhāgavata Purāṇa 12.2.31–34:
-> **एष कृष्णो यदुकुले सम्भूय क्षत्रियं कुलम् । राज्यं कृत्वाऽऽत्मजां दत्त्वा स्वर्गं जगाम पाण्डव ॥ ३१ ॥**
-> **तस्मिन्नेव मुहूर्ते तु कलौ प्राप्ते कलौ युगे । रात्रौ अर्धनिशायां च कृष्णः स्वधाम प्राविशत् ॥ ३२ ॥**
-> **यदा कृष्णस्तु भूगोलं जहौ तदा प्रवृत्तं तु कलियुगम् । तदा प्रभृति गणयन्ति कलिवर्षाणि मनीषिणः ॥ ३३ ॥**
-> *"eṣa kṛṣṇo yadu-kule sambhūya kṣatriyaṁ kulam / rājyaṁ kṛtvā 'tmajāṁ dattvā svargaṁ jagāma pāṇḍava // 31 // tasminn eva muhūrte tu kalau prāpte kalau yuge / rātrau ardha-niśāyāṁ ca kṛṣṇaḥ sva-dhāma prāviśat // 32 // yadā kṛṣṇas tu bhū-golaṁ jahau tadā pravṛttaṁ tu kali-yugam / tadā prabhṛti gaṇayanti kali-varṣāṇi manīṣiṇaḥ // 33 //"*
-> *"After establishing the Yadu dynasty, ruling the earth, and begetting descendants, Kṛṣṇa returned to His abode. At that very moment — midnight (Ujjain meridian) 17/18 February 3102 BCE (proleptic Julian), corresponding to 22/23 January (proleptic Gregorian) — Kali-yuga began. When Kṛṣṇa left the earthly sphere, Kali-yuga commenced; from that time, the learned count the years of Kali."*
+**Source:** Śrīmad-Bhāgavatam 12.2.33:
+> **यस्मिन् कृष्णो दिवं यातस्तस्मिन्नेव तदाहनि ।**
+> **प्रतिपन्नं कलियुगमिति प्राहुः पुराविदः ॥ ३३ ॥**
+> *"yasmin kṛṣṇo divaṁ yātas / tasminn eva tadāhani / pratipannaṁ kali-yugam / iti prāhuḥ purā-vidaḥ"*
+> **Translation:** *"Those who perfectly know the history of the past declare that on the very day and moment Lord Kṛṣṇa returned to His absolute abode, the Kali-yuga immediately commenced."***[Astronomical correlation specifies this moment as midnight, 17/18 February 3102 BCE]*
 
 **Source:** Bhāgavata Purāṇa 3.11.28–29:
 > **ब्रह्मणो दिनमेतावन्मानुषैरब्दसंख्यया । कल्पसंज्ञं मनूनां च चतुर्दश भवन्ति हि ॥ २८ ॥
@@ -799,7 +821,7 @@ This is **transcendental space** — not an absence of matter, but the positive 
 |---|---|---|---|
 | **Vaikuṇṭha** | Vaiṣṇavism | Meaning "without anxiety" or "imperfections," this is the *Parama Padam* (eternal heavenly realm) and *Nitya Vibhūti*. The Cinmaya (consciousness-composed) realm of Nārāyaṇa/Viṣṇu; residents have Siddha-deha (perfected bodies of light with four arms) identical to Vishnu (*Sārūpya-mukti*). As a *Sva-dhāma*, it is self-illuminating, requiring no sun or moon: *"The Vaikuntha planets and the Goloka Vrndavana planet are all self-illuminating, and the rays scattered by those sva-dhama of the Lord constitute the existence of the brahma-jyotir."* The realm features golden palaces with crystal walls, hanging gardens, wish-fulfilling trees (*kalpa-vṛkṣa*), and residents travel in *vimānas* of jewels and emeralds. It is guarded by the *dvārapālakas* (gatekeepers) Jaya and Vijaya, with its army led by Viṣvaksena and attended by Sunanda, Nanda, Prabala, and Arhaṇa. Planets include Puruṣottama-loka, Acyuta-loka, Trivikrama-loka, etc. Begins 26,200,000 yojanas (209,600,000 miles) above Satyaloka. Described in Rigveda 1.22.20: **IAST:** *"tad viṣṇoḥ paramaṁ padaṁ sadā paśyanti sūrayaḥ"* / *"The gods are always looking towards the Supreme feet of Vishnu."* | Bhāgavata 2.4.14, 1.19.21, 2.9.9–17; Rigveda 1.22.20; Vaiṣṇava Āgamas (Pañcarātra 2.1–8); Brahma-saṁhitā |
 | **Goloka-Vṛndāvana** | Vaiṣṇavism (Kṛṣṇa-centered) | The supreme abode of Kṛṣṇa — an **eternal realm above Vaikuṇṭha** sustained by *Hlādinī-Śakti* (blissful energy). It is *Virajaskam* (free from mundane contamination) and *Viśokam* (free from lamentation), the ultimate destination of pure devotees like Mahārāja Parīkṣit. Self-illuminating planets made of cintāmaṇi (touchstone), surrounded by desire trees and surabhi cows. Rādhā is the Queen of Goloka and the personification of *Hlādinī-Śakti* and *Mahābhāva* (highest pitch of divine love). She is accompanied by her *Aṣṭasakhīs* (eight intimate friends, prominently Lalitā and Viśākhā). Rādhā's theology is explored through *Parakīya* and *Svakīya* rasas, and she is praised by 1008 names in the *Śrī Rādhā Sahasranāma*. Born 9 months before Kṛṣṇa, she endures a 100-year curse of separation before their eternal reunion in this realm of cows and cowherds. | Brahma-saṁhitā 5.29–43; Bhāgavata 1.19.21, 10.28.1–15; Brahma Vaivarta Purāṇa; Garga Saṁhitā |
-| **Sāketa / Nitya-Ayodhyā** | Vaiṣṇavism (Rāma-centered) | The eternal Rāma-Dhāma described in Adhyātma Rāmāyaṇa, Brahma Rāmāyaṇa; identical in ontological status to Goloka but expressing Śānta-Rasa | Brahma Rāmāyaṇa Uttara-Khaṇḍa 10.3–12, 10.45–52 |
+| **Sāketa / Nitya-Ayodhyā** | Vaiṣṇavism (Rāma-centered) | The eternal Rāma-Dhāma described in Adhyātma Rāmāyaṇa, Brahma Rāmāyaṇa; identical in ontological status to Goloka but expressing Śānta-Rasa. The **Ānanda Rāmāyaṇa** (9.1.5) describes the spiritual sky of Sāketa as the ultimate destination beyond the material egg: *"In the realm of Sāketa, within Vaikuṇṭha, Rāma eternally shines, being the single essence of bliss together with the beautiful Sītā."* | Brahma Rāmāyaṇa Uttara-Khaṇḍa 10.3–12; Ānanda Rāmāyaṇa 9.1.5 |
 | **Kailāsa** | Śaivism | Para-Kailāsa (from the Sanskrit root *kelasa* meaning "crystal") is the trans-cosmic Śiva-Śakti abode. Mount Kailāśa in the spiritual sky is distinct from the terrestrial Mount Kailāśa (which is 53 km in circumambulation) located in the Himavat range between the Malayavat and Gandhamādana mountains. At its center stands Mount Meru, 139,440 km (86,640 miles) high. Within Kailāsa is *Śaivatra*, the specific peak where Śiva resides with Pārvatī, Gaṇeśa, and Kārttikeya, guarded by Nandi and the *gaṇas*. It features the lake *Alakā*, adorned with golden lotuses and the source of the Mandākinī River. It is here that Śiva enacts the *Rāvaṇānugraha* (showing favor to Rāvaṇa) and performs His cosmic dance (Naṭarāja). | Śiva Purāṇa Vāyavīya Khaṇḍa 1.17–19, 1.28–30; Śaiva Āgamas (Kiraṇa Tantra 1.5–12); Mahābhārata Śānti Parva 284.1–14, Anuśāsana Parva 17.1–10 |
 | **Manidvīpa / Śrī Nagara** | Śāktism | The supreme abode of Mahādevī in her form as Tripura Sundarī; an island of jewels (maṇi) situated in the center of the Sudhā Samudra (Ocean of Nectar), beyond the physical universe; explicitly superior to Goloka, Sāketa, Vaikuṇṭha, Kailāsa, and Brahmaloka. As stated in Devī Bhāgavata Purāṇa Canto 12, Chapter 10, Verses 3–4: *"In the very beginning, the Devi Mula Prakriti Bhagavati built this place for Her residence, superior to Kailasa, Vaikunta and Goloka. Verily no other place in this universe can stand before it. Hence it is called Manidvipa or Sarvaloka as superior to all the Lokas."* Located in the island of jewels, encircled by the ocean of nectar, beyond the universe, there is a mansion made of Chintamani (wish-giving jewel) in the grove of Kadamba trees. The city is called Śrīpūra (Devīpattana), the capital of Tripura Sundarī, seated on the Panchapretāsana throne with Sadāśiva as the plank and Īśvara, Rudra, Viṣṇu, and Brahmā as four legs (Devī Bhāgavata Purāṇa 7.30, Canto 12.10.3–4; Tripura Rahasya Jñāna Khaṇḍa 14.1–8) | Devī Bhāgavata Purāṇa 7.30.1–15, Canto 12.10.3–4; Tripura Rahasya Jñāna Khaṇḍa 14.1–8; Tripura Upaniṣad 1.1–6 |
 | **Brahmaloka (Satyaloka's transcendental counterpart)** | Universal | Also known as *Brahman-lokah* or *Satyaloka* (the world of truth). It is the supreme summit of the material universe (240,000,000 yojanas above Bhū-Maṇḍala, and precisely 60,000,000 miles above Prajāpati-loka). Residents here drink the "nectar of yoga," never knowing death. At Mahāpralaya, its residents — Brahmā, Sarasvatī, and perfected mystics — pass into the eternal Vaikuṇṭha. Described in the Chāndogya Upaniṣad 8.1.1: **IAST:** *"Brahman-lokah esa atma-lokah"* / *"Within the Brahmapura is an abode, a small lotus-flower within which is a small space (antarakasa). What is within that, should be searched out. That, assuredly, is what one should desire to understand."* | Bhāgavata 3.11.28, Viṣṇu Purāṇa VI.4, Chāndogya Upaniṣad 8.1.1, 8.4.3 |
@@ -906,6 +928,16 @@ While Radha is widely known as the queen of Goloka in Vaishnavism, her role in S
 ### 8.1 The Multiverse: Countless Brahmanda
 
 The Ārṣa texts describe not one universe but **innumerable universes** (aṇḍa-koṭi-koṭi), each a self-contained Brahmanda with its own Brahmā, Viṣṇu, and Śiva, each covered by seven layers of material elements, each universe floating like an atom in the body of the Supreme.
+
+In the **Rāmacaritamānasa**, the sage Kakabhūṣuṇḍī describes his entry into the mouth of the infant Rāma, where he witnesses the staggering architecture of the multiverse, establishing that the singular Brahmāṇḍa is merely one grain of sand on an infinite cosmic shore:
+
+> **उदर माझ सुनु अंडज राया। देखिउँ बहु ब्रह्मांड निकाया।।**
+> **अति बिचित्र तहँ लोक अनेका। रचना अधिक एक ते एका।।**
+> (Rāmacaritamānasa, Uttara-Kāṇḍa 80-81)
+> *udara mājha sunu aṇḍaja rāyā. dekhi'u~ bahu brahmāṇḍa nikāyā..*
+> *ati bicitra taha~ loka anekā. racanā adhika ēka tē ēkā..*
+> **English Translation:** "Listen, O King of Birds (Garuḍa), inside His stomach I saw multitudes of universes. There were many strange worlds, each more wonderful in its creation than the other."
+
 
 **Source:** Śrīmad Bhāgavatam 6.16.37:
 > **क्षित्यादिभिर एष किलावृत: सप्तभिर्दशगुणोत्तरैरण्डकोश: । यत्र पतत्यणुकल्प: सहण्डकोटिकोटिभिस्तदनन्त: ॥ ३७ ॥**
@@ -1141,11 +1173,14 @@ Partial emanations taking structural roles in the cosmos: Gaṅgā (water/purifi
 
 ### 10.1 From the Rāmāyaṇa Corpus
 
-The Yoga-Vāsiṣṭha Mahā-Rāmāyaṇa presents the most philosophically radical version of this cosmology: every Brahmāṇḍa is ultimately a **Saṅkalpa** (ideation) within the infinite Consciousness, and there are literally countless such universes arising and dissolving within the space of a single Niḥśvāsa (exhalation) of the Absolute. The Bhūṣuṇḍī Rāmāyaṇa (as referenced in the Adhyātma tradition) preserves the account of Kāka-Bhūṣuṇḍī — the immortal crow-sage who witnessed multiple Kalpas and multiple incarnations of Rāma — providing a first-person testimony to the multi-Kalpa structure of the cosmos.
+The complete architecture of the **Brahmāṇḍa Darśana** is derived not only from the Purāṇas but from the vast Rāmāyaṇa corpus, each contributing a unique perspective to the cosmic map:
 
-The Adbhuta Rāmāyaṇa and Ānanda Rāmāyaṇa preserve the teaching that the cosmic drama of Rāma and Rāvaṇa is enacted in different forms across different Kalpas, with variations in the number of participants, the identity of the Rāvaṇa-figure, and even the nature of Rāma's manifestation — supporting the Purāṇic teaching that each Kalpa is presided over by a different set of cosmic circumstances while the dharmic core remains invariant.
-
-The Saurya Rāmāyaṇa (solar Rāmāyaṇa tradition) preserves the astronomical alignments of the Rāma-Rāvaṇa war: the positions of the Nava-grahas (nine planets), the Nakṣatras, and the Rāśis at the moment of the final battle — an alignment that locates the event within the measurable framework of the Śiśumāra Chakra and the Kāla-Chakra.
+1.  **Śrīmad Vālmīki Rāmāyaṇa**: The foundational authority for all measurements and geography (such as Sugrīva's description of the earth in the Kiṣkindhā Kāṇḍa and Hanuman's celestial leap in the Sundara Kāṇḍa).
+2.  **Yoga-Vāsiṣṭha Mahā-Rāmāyaṇa**: Presents the most philosophically radical version of this cosmology, where every Brahmāṇḍa is ultimately a **Saṅkalpa** (ideation) within pure Consciousness, with infinite universes existing within a single atom.
+3.  **Adhyātma Rāmāyaṇa**: Maps the cosmos onto the spiritual anatomy of the soul, equating the entire universe with the very form of the Supreme Lord (*sarvaṁ rāmāmayaṁ jagat*).
+4.  **Adbhuta Rāmāyaṇa**: Emphasizes the cosmic form of Sītā as Ādi-Śakti, echoing the universal *viśvarūpa* cosmology of the Upaniṣads and Gītā.
+5.  **Ānanda Rāmāyaṇa**: Focuses on the eternal bliss of Śrī Rāma in the paramavyoma (Sāketa Dhāma), the realm beyond all material coverings.
+6.  **Rāmacaritamānasa**: Through the testimony of Kāka-Bhūṣuṇḍī, provides a first-person account of the multi-Kalpa structure and the countless floating cosmic eggs inside the mouth of the Absolute.
 
 ### 10.2 From the Siddhāntas
 
@@ -1175,6 +1210,14 @@ Time itself is Māyā's first tool. The Paramāṇu to Parārdha continuum exist
 ### 11.3 The Bhakti Compass (Rasa-Darpaṇa)
 
 The Brahma Rāmāyaṇa Uttara-Khaṇḍa 10.3–12, the Adhyātma Rāmāyaṇa Uttara Kāṇḍa 3.1–12, and Bhūṣuṇḍī's testimony (Yoga Vāsiṣṭha Cṛṣṭi Prakaraṇa 3.1–15) converge on a single purpose: all cosmic description is a Stava — a hymn of praise — for the Ānanda-Svarūpa who pervades, sustains, and transcends the entire Brahmāṇḍa. The correct response to this map is not merely intellectual comprehension but Śaraṇāgati (complete surrender) to the one who holds all fourteen Lokas in a single lotus-petal of His infinite form.
+
+> **सर्वं रामामयं जगत् इति निश्चित्य बुद्धिमान् ।**
+> **ब्रह्माण्डं पश्यति सदा स्वरूपेणैव राघवम् ॥**
+> (Adhyātma Rāmāyaṇa 7.5.30)
+> *sarvaṁ rāmāmayaṁ jagat iti niścitya buddhimān / brahmāṇḍaṁ paśyati sadā svarūpeṇaiva rāghavam*
+> **English Translation:** "Deciding that 'the entire world is composed of Rāma', the wise person always sees the Brahmāṇḍa as the very form of Rāghava Himself."
+
+The Brahmāṇḍa is not a machine. It is **Brahman's Svāṅga** (limb of manifestation). The 14 Lokas are **Guṇa-Bhūmikās**; the oceans are **Tattva-Pravāha**; the Śiśumāra is **Prāṇa-Yantra**; Kāla is **Icchā's Pulse**; the eight shells are **Māyā's Armor**; Paravyoma is the **Supreme Reality**.
 
 ---
 
