@@ -104,3 +104,6 @@
 
     you can and have to properly web fetch all the citations and traces, and if somewhere missing then add them, if somewhere incorrect then corrrect them. i want detailed lossless citations
      and traces with exact texts and their verses and also mention the exact as it sanskrit verses..
+
+     do a DEEP, EXTSNEIVE, PROPER, DETAILED, IN-DEPTH strict proofreading of the master.md file. They want me to research from ALL Hindu scriptures - Vedas, Upa-Vedas,
+    Upangas, Vedangas, Puranas, Upa-Puranas, Smritis, Upa-Smritis, Upanishads, and all other sage-attributed texts including occult texts.
