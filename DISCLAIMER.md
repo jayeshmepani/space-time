@@ -7,7 +7,7 @@ This repository presents traditional Ārṣa cosmology and chronometry as docume
 - This material is provided "as-is" without warranty of accuracy, completeness, or fitness for any purpose. Use at your own risk.
 - Users are encouraged to consult the primary sources cited in the documents and seek guidance from qualified scholars or practitioners when required.
 
-The content of this repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See the `LICENSE` file for full terms.
+The content of this repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See the [LICENSE](LICENSE) file for full terms.
 
 Not legal advice: This disclaimer is for informational purposes only and does not constitute legal advice. For legal questions about licensing or liability in your jurisdiction, consult a qualified attorney.
 

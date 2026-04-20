@@ -25,7 +25,7 @@ I'm Jayesh Mepani â€” GitHub: [@jayeshmepani](https://github.com/jayeshmepani) â
 
 ## Disclaimer
 
-This repository is intended for scholarly and educational use. See `DISCLAIMER.md` for a short legal disclaimer about accuracy, scope, and liability.
+This repository is intended for scholarly and educational use. See [DISCLAIMER](DISCLAIMER.md) for a short legal disclaimer about accuracy, scope, and liability.
 
 ### Research note
 
