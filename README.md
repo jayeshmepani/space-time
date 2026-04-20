@@ -21,7 +21,7 @@ License: Creative Commons Attribution 4.0 International (CC BY 4.0). See [LICENS
 
 ## Contact
 
-Repository owner: GitHub user [@jayeshmepani](https://github.com/jayeshmepani) — email: [jayeshmepani777@gmail.com](mailto:jayeshmepani777@gmail.com).
+I'm Jayesh Mepani — GitHub: [@jayeshmepani](https://github.com/jayeshmepani) — email: [jayeshmepani777@gmail.com](mailto:jayeshmepani777@gmail.com).
 
 ## Disclaimer
 
@@ -29,4 +29,4 @@ This repository is intended for scholarly and educational use. See `DISCLAIMER.m
 
 ### Research note
 
-The author has conducted extensive research into Hindu scriptures concerning time and space and can provide additional references or clarifications on request. If any part of the documents is partially or wholly incorrect, that inaccuracy is unintentional and may result from transcription, translation, or interpretation errors despite best efforts.
+I have conducted extensive research into Hindu scriptures concerning time and space and can provide additional references or clarifications on request. If any part of the documents is partially or wholly incorrect, that inaccuracy is unintentional and may result from transcription, translation, or interpretation errors despite my best efforts.

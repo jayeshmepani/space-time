@@ -13,4 +13,4 @@ Not legal advice: This disclaimer is for informational purposes only and does no
 
 ### Research & Errata
 
-The author (Jayesh Mepani) has carried out extensive research into the cited scriptures and classical sources. If any content is found to be partially or completely incorrect, this is unintended and may be due to transcription, translation, or interpretation errors. The author welcomes corrections, references, or further discussion to improve accuracy.
+I have carried out extensive research into the cited scriptures and classical sources. If any content is found to be partially or completely incorrect, this is unintended and may be due to transcription, translation, or interpretation errors. I welcome corrections, references, or further discussion to improve accuracy.
